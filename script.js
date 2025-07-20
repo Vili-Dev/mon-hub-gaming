@@ -10,15 +10,15 @@ window.addEventListener("DOMContentLoaded", function() {
       minWidth: 200.00,
       scale: 3.00,
       scaleMobile: 12.00,
-      speed: 0.8,
+      speed: 2,
       backgroundAlpha: 1.00,
       backgroundColor: 0xffffff,
       skyColor: 0x6d0000,
-      cloudColor: 0xdeadad,
-      cloudShadowColor: 0x183b10,
-      sunColor: 0xffea49,
-      sunGlareColor: 0xffbb73,
-      sunlightColor: 0xffeb93
+      cloudColor: 0xadc1de,
+      cloudShadowColor: 0x561919,
+      sunColor: 0xff1818,
+      sunGlareColor: 0xff3030,
+      sunlightColor: 0xff3030
     });
   }
   renderGames();
