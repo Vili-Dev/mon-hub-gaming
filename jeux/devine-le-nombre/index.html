@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Devine le Nombre</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🔢 Devine le Nombre (1 à 100)</h1>
+  <p>Essaye de deviner le nombre que j'ai choisi entre 1 et 100 !</p>
+
+  <div class="game-container">
+    <input type="number" id="guess" placeholder="Tape un nombre" min="1" max="100" />
+    <button id="submit">Deviner</button>
+    <p id="message"></p>
+    <p id="attempts">Essais : 0</p>
+    <button id="restart" style="display:none;">Rejouer</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #f0f0f0;
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #00ffcc;
+}
+
+.game-container {
+  background-color: #1e1e1e;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px #00ffcc44;
+}
+
+input[type="number"] {
+  padding: 10px;
+  font-size: 1.2rem;
+  width: 60%;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #00ffcc;
+  color: #000;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #00ddaa;
+}
+
+#message {
+  margin-top: 15px;
+  font-size: 1.2rem;
+}
+
+#attempts {
+  color: #ccc;
+  margin-top: 5px;
+}
