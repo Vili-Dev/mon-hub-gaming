@@ -5,10 +5,10 @@ Interface immersive, responsive, et nuageuse grâce à l'animation **Vanta.js**.
 
 ## 🚀 Démo
 
-- [Accéder au site en ligne](https://admirable-sorbet-1d5780.netlify.app/)
+- [Accéder au site en ligne](https://mon-menu-hub.netlify.app/)
 - **Aperçu de la page d'accueil** :
 
-
+![aperçu du de la calculette](images/apercu-hub.png)
 
 ---
 
