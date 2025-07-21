@@ -43,6 +43,12 @@ const games = [
     url: "devine.html",
     img: "https://img.freepik.com/vecteurs-libre/neuf-numeros-dessines-main_78370-1657.jpg",
     description: "Trouve le nombre mystère en un minimum d'essais."
+  },
+  {
+    title: "Calculatrice",
+    url: "https://calculatrice-ameliorer.netlify.app/",
+    img: "https://img.freepik.com/vecteurs-libre/calculatrice-rose-boutons-colores-pour-illustration-3d-bureau-dessin-anime-outil-comptabilite-style-3d-fond-blanc-affaires-finances-calcul-concept-mathematique_778687-726.jpg",
+    description: "Calculez comme jamais"
   }
   // autre jeux à ajouter ici + tard
 ];
