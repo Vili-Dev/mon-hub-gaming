@@ -51,7 +51,7 @@ Interface immersive, responsive, et nuageuse grâce à l'animation **Vanta.js**.
 Ce site est conçu par **Vili**, étudiant en formation Développeur Web & Web Mobile.\
 But : montrer l’étendue de mes compétences en développement front-end, mon goût pour le design interactif, et rendre mes projets facilement testables par les recruteurs et visiteurs.
 
-> ➡️ **Voir la page **[**À propos**](à-propos.html)** pour en savoir plus !**
+> ➡️ **Voir la page **[**À propos**](https://admirable-sorbet-1d5780.netlify.app/%C3%A0-propos.html)** pour en savoir plus !**
 
 ---
 
